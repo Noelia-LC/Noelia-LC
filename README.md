@@ -1,6 +1,10 @@
 # Hola
 ## Hi there 👋
 ### más pequeño
+
+* Item1
+  - Item1.1
+    + Item1.1.1
 <!--
 **Noelia-LC/Noelia-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
