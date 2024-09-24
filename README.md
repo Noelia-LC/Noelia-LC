@@ -1,5 +1,7 @@
 # Hola
 ## Hi there 👋
+###- 👯 Estudiando grado medio de SMR (Segundo año). 
+
 ###- 🌱 Estoy aprendiendo Seguridad Informática.
 <!--
 **Noelia-LC/Noelia-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
